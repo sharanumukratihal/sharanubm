@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f4f4f4;
+}
+
+header {
+  background: #1877f2;
+  color: #fff;
+  padding: 30px;
+  text-align: center;
+}
+
+.services {
+  padding: 20px;
+  text-align: center;
+}
+
+.card {
+  background: #fff;
+  margin: 10px auto;
+  padding: 15px;
+  max-width: 300px;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
+
+.contact {
+  background: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
